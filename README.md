@@ -1,4 +1,4 @@
-# carRental
+# [carRental](https://bardjur.github.io/carRental/)
 ## application for a company that provides car rental services
 
 The application consists of 3 pages:
