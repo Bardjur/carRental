@@ -17,9 +17,10 @@ The application consists of 3 pages:
   •  In the code, the mileage of the car must be written with one value (for example, 4500). In the UI - displayed with a comma (4,500).
   •  The Rental car button should be implemented as a link that will allow the user to connect with the company by phone number +380730000000.
 
-#### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
+#### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
